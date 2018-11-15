@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<title>KatieGillespieAPO</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<body class="w3-content" style="max-width:1300px">
+
+<!-- First Grid: Logo & About -->
+<div class="w3-row">
+  <div class="w3-half w3-white w3-center" style="height:300">
+    <div class="w3-padding-48 3-center">
+      <img src="Images/NameIcon.png" alt="KatieGillespie" style="width:%65">
+    <div class="w3-padding-128">
+      <a href="#A" class="w3-button w3-white w3-block w3-hover-green w3-padding-8">Cover Letter</a>
+      <a href="#A" class="w3-button w3-white w3-block w3-hover-indigo w3-padding-8">Resume</a>
+      <a href="#B" class="w3-button w3-white w3-block w3-hover-yellow w3-padding-8">Sample Slide Deck</a>
+		<a href="#B" class="w3-button w3-white w3-block w3-hover-pink w3-padding-8">Sample Presentation</a>
+       <a href="#C" class="w3-button w3-white w3-block w3-hover-white w3-padding-8">Transcript</a>
+        <a href="#C" class="w3-button w3-white w3-block w3-hover-purple w3-padding-8">Contact</a>
+      </div>																			 
+    </div>
+  </div>
+  <div class="w3-half w3-blue w3-center" style="height:300">
+    <div class="w3-padding-24 w3-center">
+      <img src="Images/Headshot.png" alt="Headshot" style="width:60%">
+      <div class="w3-center w3- adding-large" style="width:100%">
+		  <p>Hi! My name is Katie and I'm a fifth year engineering student. I've put together a few things to showcase some of my skills and experience relevant to succeed as an Associate Product Owner at Scotiabank! I initially helped design and implement this digital platform for use on Raspberry Pi local servers in rural communities but thought this was a great opportunity to test out its funcionality. </p>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Second Grid: Cover Letter and Resume -->
+<div class="w3-row">
+  <div class="w3-half w3-green w3-center" style="min-height:350px" id="A">
+    <div class="w3-padding-48 w3-center">
+        <a href="Documents/APOCoverLetter.pdf">
+	<img src="Images/CoverLetterIcon.png" alt="CoverLetterIcon" style="width:40%">
+</a>
+      <p>A little bit about me and why I'm so interested in joining the team at Scotiabank through the APO program!</p>
+
+	</div> 
+	</div>
+  <div class="w3-half w3-indigo w3-center" style="min-height:350px" id="A">
+    <div class="w3-padding-48 w3-center">
+	<a href="Documents/KatieGillespie-ResumeFall18.pdf">
+	<img src="Images/resume.png" alt="Resume-Icon" style="width:40%">
+</a>
+		<p>Just in case I missed any details, here's a more official layout of my experience and skills in my resume!</p>
+	</div>
+	</div>
+	</div>
+
+<!-- Third Grid: Slide Deck and Presentation -->
+<div class="w3-row">
+  <div class="w3-half w3-yellow w3-center" style="min-height:350px" id="B">
+    <div class="w3-padding-48 w3-center -center">
+        <a href="Documents/FulfilamentPitchMarch2018.pdf">
+	<img src="Images/presentation (1).png" alt="Presentation-Icon" style="width:35%">
+</a>
+	<p>Here's the slide deck from a pitch competition that I placed first at in March to win $500 and secure an additional $2500 in funding from an audience member all for a venture that I started in January 2018!</p>
+	</div> 
+	</div> 
+  <div class="w3-half w3-pink w3-center" style="min-height:350px" id="B">
+    <div class="w3-padding-48 w3-center">
+	<a href="Documents/Watch _ Enactus - Google Chrome 2018-11-15 11_59_25 AM_Trim.mp4">
+	<img src="Images/work.png" alt="PresentationIcon" style="width:35%">
+</a>
+      <p>Check out an update presentation myself and fellow Enactus exec member Laura gave at the Enactus World Cup in San Jose California to provide the Ford Motor Company and 3000 audience members an update on our projects!</p>
+	</div>
+	</div>
+	</div>
+
+<!-- Fourth Grid: Transcript and Contact -->
+<div class="w3-half w3-white w3-center" style="min-height:350px" id="C">
+	  <div class="w3-padding-32 w3-center">
+	<a href="Documents/Watch _ Enactus - Google Chrome 2018-11-15 11_59_25 AM_Trim.mp4">
+	<img src="Images/noun_Report Card_729_000000.png" alt="Transcript-Icon" style="width:35%">
+</a>
+      <p>Finally, here's my transecript for my adademic record from the past 4 1/2 years at Memorial University of Newfoundland. </p>
+	</div>
+	</div>
+ <div class="w3-half w3-purple w3-center" style="min-height:350px" id="C">  
+	 <div class="w3-padding-32 w3-center">
+      <a href="https://www.linkedin.com/in/-katie-gillespie/">
+	<img src="Images/contact.png" alt="Contact-Icon" width="169" height="170" style="width:%10">
+</a>
+	 <p>Interested in learning more? Get in touch!</p>
+		<a href="mailto:k.gillespie@mun.ca">k.gillespie@mun.ca</a><br>
+		 <p>+ 1 709 770 1222</p>
+	</div>
+	</div>
+	</div>
+	</div>
+
+<!-- Footer -->
+<footer class="w3-container w3-White w3-padding-16">
+  <p>Powered by <a href="https://www.linkedin.com/in/-katie-gillespie/" target="_blank">#Katie</a></p>
+</footer>
+
+</body>
+</html>
