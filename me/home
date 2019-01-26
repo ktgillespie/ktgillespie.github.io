@@ -25,7 +25,7 @@
     <div class="w3-padding-24 w3-center">
       <img src="Images/Headshot.png" alt="Headshot" style="width:60%">
       <div class="w3-center w3- adding-large" style="width:100%">
-		  <p>Hi! My name is Katie and I'm a fifth year engineering student. I've put together a few things to showcase some of my skills and experience relevant to succeed as an Associate Product Owner at Scotiabank! I initially helped design and implement this digital platform for use on Raspberry Pi local servers in rural communities but thought this was a great opportunity to test out its funcionality. </p>
+		  <p>Hi! My name is Katie and I'm a fifth year engineering student. I've put together a few things to showcase some of my skills and experience! I initially helped design and implement this digital platform for use on Raspberry Pi local servers in rural communities but thought this was a great opportunity to test out its funcionality. </p>
       </div>
     </div>
   </div>
@@ -38,7 +38,7 @@
         <a href="Documents/APOCoverLetter.pdf">
 	<img src="Images/CoverLetterIcon.png" alt="CoverLetterIcon" style="width:40%">
 </a>
-      <p>A little bit about me and why I'm so interested in joining the team at Scotiabank through the APO program!</p>
+      <p>This used to be a place for a cover letter but they say a picture says a thousand words so here's my level of excitement when I secured my dual citizenship to Ireland!</p>
 
 	</div> 
 	</div>
@@ -47,7 +47,7 @@
 	<a href="Documents/KatieGillespie-ResumeFall18.pdf">
 	<img src="Images/resume.png" alt="Resume-Icon" style="width:40%">
 </a>
-		<p>Just in case I missed any details, here's a more official layout of my experience and skills in my resume!</p>
+		<p>Here's a more professional showcase of my experience and skills in my resume!</p>
 	</div>
 	</div>
 	</div>
